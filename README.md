@@ -19,7 +19,7 @@ This is a Spring Boot-based RESTful backend for managing employee data. It provi
 ## 🛠 Tech Stack
 
 - **Backend:** Spring Boot, Spring MVC, Spring Data JPA
-- **Database:** H2 / MySQL (depending on configuration)
+- **Database:** MySQL
 - **ORM:** Hibernate
 - **Build Tool:** Maven
 - **API Format:** REST (JSON)
